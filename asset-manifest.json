@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://abhi9464.github.io/csb-7bc6f/static/css/main.c04081bf.chunk.css",
+    "main.js": "https://abhi9464.github.io/csb-7bc6f/static/js/main.b81a3e8c.chunk.js",
+    "main.js.map": "https://abhi9464.github.io/csb-7bc6f/static/js/main.b81a3e8c.chunk.js.map",
+    "runtime-main.js": "https://abhi9464.github.io/csb-7bc6f/static/js/runtime-main.e9550b4f.js",
+    "runtime-main.js.map": "https://abhi9464.github.io/csb-7bc6f/static/js/runtime-main.e9550b4f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "https://abhi9464.github.io/csb-7bc6f/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.be91ee67.chunk.js": "https://abhi9464.github.io/csb-7bc6f/static/js/2.be91ee67.chunk.js",
+    "static/js/2.be91ee67.chunk.js.map": "https://abhi9464.github.io/csb-7bc6f/static/js/2.be91ee67.chunk.js.map",
+    "static/js/3.6fd008c8.chunk.js": "https://abhi9464.github.io/csb-7bc6f/static/js/3.6fd008c8.chunk.js",
+    "static/js/3.6fd008c8.chunk.js.map": "https://abhi9464.github.io/csb-7bc6f/static/js/3.6fd008c8.chunk.js.map",
+    "index.html": "https://abhi9464.github.io/csb-7bc6f/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "https://abhi9464.github.io/csb-7bc6f/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.c04081bf.chunk.css.map": "https://abhi9464.github.io/csb-7bc6f/static/css/main.c04081bf.chunk.css.map",
+    "static/js/2.be91ee67.chunk.js.LICENSE.txt": "https://abhi9464.github.io/csb-7bc6f/static/js/2.be91ee67.chunk.js.LICENSE.txt",
+    "static/media/Service1.ddace5c4.png": "https://abhi9464.github.io/csb-7bc6f/static/media/Service1.ddace5c4.png",
+    "static/media/Slider1.b51b66b3.png": "https://abhi9464.github.io/csb-7bc6f/static/media/Slider1.b51b66b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9550b4f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.be91ee67.chunk.js",
+    "static/css/main.c04081bf.chunk.css",
+    "static/js/main.b81a3e8c.chunk.js"
+  ]
+}
